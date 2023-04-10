@@ -6,11 +6,11 @@ const chalk = require('chalk')
 // MY OTHERS
 global.owner = ['6282181337337']
 global.premium = ['6282181337337']
-global.botname = 'Panda Botz'
-global.packname = 'Bot Whatsapp'
-global.author = 'Faiz Team'
+global.botname = 'Artabotz'
+global.packname = 'Artabotz By Rezza'
+global.author = '@arrezza20'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.footer = '© Created By Pratama Official'
+global.footer = '© Created By Rezza Official'
 global.sp = '⭔'
 global.limitawal = {
 premium: "Infinity",
